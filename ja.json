@@ -52,7 +52,7 @@
   "Main_Forward": "Forward",
   "Overview_AppScanFailed": "Windows settings were checked, but installed apps could not be read: {0}",
   "Overview_Title": "Overview",
-  "Overview_BrowsersAvailable": "{0} 個のブラウザーが利用可能,
+  "Overview_BrowsersAvailable": "{0} 個のブラウザーが利用可能",
   "Overview_AreaLine": "{0} — {1}",
   "Overview_CheckComplete": "Check complete.",
   "Overview_CheckSummary": "{0} of {1} recommendations match",
